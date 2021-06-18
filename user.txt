@@ -1,0 +1,193 @@
+{
+  "code": 200,
+  "meta": {
+    "pagination": {
+      "total": 2166,
+      "pages": 109,
+      "page": 1,
+      "limit": 20
+    }
+  },
+  "data": [
+    {
+      "id": 35,
+      "name": "Tejpal Singh",
+      "email": "test@gmail.com",
+      "gender": "Female",
+      "status": "Active",
+      "created_at": "2021-06-17T03:50:04.551+05:30",
+      "updated_at": "2021-06-17T22:13:57.040+05:30"
+    },
+    {
+      "id": 36,
+      "name": "Sukanya Tandon PhD",
+      "email": "tandon_suryakanta_phd@dickens.info",
+      "gender": "Female",
+      "status": "Active",
+      "created_at": "2021-06-17T03:50:04.566+05:30",
+      "updated_at": "2021-06-17T22:16:20.197+05:30"
+    },
+    {
+      "id": 37,
+      "name": "Msgr. Vrund Reddy",
+      "email": "msgr_vrund_reddy@heidenreich.io",
+      "gender": "Female",
+      "status": "Inactive",
+      "created_at": "2021-06-17T03:50:04.584+05:30",
+      "updated_at": "2021-06-17T03:50:04.584+05:30"
+    },
+    {
+      "id": 44,
+      "name": "Gauranga Shah",
+      "email": "shah_gauranga@prosacco.org",
+      "gender": "Female",
+      "status": "Active",
+      "created_at": "2021-06-17T03:50:04.648+05:30",
+      "updated_at": "2021-06-17T03:50:04.648+05:30"
+    },
+    {
+      "id": 46,
+      "name": "Oormila Patil Esq.",
+      "email": "esq_oormila_patil@corwin.info",
+      "gender": "Male",
+      "status": "Inactive",
+      "created_at": "2021-06-17T03:50:04.669+05:30",
+      "updated_at": "2021-06-17T03:50:04.669+05:30"
+    },
+    {
+      "id": 48,
+      "name": "Dhanvin Chopra",
+      "email": "dhanvin_chopra@kreiger.com",
+      "gender": "Female",
+      "status": "Inactive",
+      "created_at": "2021-06-17T03:50:04.704+05:30",
+      "updated_at": "2021-06-17T03:50:04.704+05:30"
+    },
+    {
+      "id": 50,
+      "name": "Vinay Gupta",
+      "email": "gupta_vinay@wehner-farrell.biz",
+      "gender": "Male",
+      "status": "Active",
+      "created_at": "2021-06-17T03:50:04.734+05:30",
+      "updated_at": "2021-06-17T03:50:04.734+05:30"
+    },
+    {
+      "id": 51,
+      "name": "Chidaatma Varman",
+      "email": "varman_chidaatma@hermiston.name",
+      "gender": "Female",
+      "status": "Inactive",
+      "created_at": "2021-06-17T03:50:04.742+05:30",
+      "updated_at": "2021-06-17T03:50:04.742+05:30"
+    },
+    {
+      "id": 53,
+      "name": "Chitramala Chattopadhyay",
+      "email": "chitramala_chattopadhyay@huels.info",
+      "gender": "Female",
+      "status": "Inactive",
+      "created_at": "2021-06-17T03:50:04.769+05:30",
+      "updated_at": "2021-06-17T03:50:04.769+05:30"
+    },
+    {
+      "id": 54,
+      "name": "Uma Iyengar",
+      "email": "uma_iyengar@wintheiser.co",
+      "gender": "Female",
+      "status": "Inactive",
+      "created_at": "2021-06-17T03:50:04.771+05:30",
+      "updated_at": "2021-06-17T03:50:04.771+05:30"
+    },
+    {
+      "id": 55,
+      "name": "Chaaruchandra Varma",
+      "email": "varma_chaaruchandra@bergnaum.biz",
+      "gender": "Female",
+      "status": "Inactive",
+      "created_at": "2021-06-17T03:50:04.778+05:30",
+      "updated_at": "2021-06-17T03:50:04.778+05:30"
+    },
+    {
+      "id": 56,
+      "name": "Shrishti Prajapat Jr.",
+      "email": "shrishti_jr_prajapat@gerhold.org",
+      "gender": "Female",
+      "status": "Active",
+      "created_at": "2021-06-17T03:50:04.788+05:30",
+      "updated_at": "2021-06-17T03:50:04.788+05:30"
+    },
+    {
+      "id": 57,
+      "name": "Aayushmaan Prajapat",
+      "email": "aayushmaan_prajapat@heathcote-vonrueden.info",
+      "gender": "Female",
+      "status": "Active",
+      "created_at": "2021-06-17T03:50:04.806+05:30",
+      "updated_at": "2021-06-17T03:50:04.806+05:30"
+    },
+    {
+      "id": 58,
+      "name": "Krishnadasa Bhattacharya",
+      "email": "krishnadasa_bhattacharya@haley.com",
+      "gender": "Male",
+      "status": "Inactive",
+      "created_at": "2021-06-17T03:50:04.822+05:30",
+      "updated_at": "2021-06-17T03:50:04.822+05:30"
+    },
+    {
+      "id": 59,
+      "name": "Ms. Surya Pandey",
+      "email": "pandey_ms_surya@lowe.info",
+      "gender": "Male",
+      "status": "Active",
+      "created_at": "2021-06-17T03:50:04.828+05:30",
+      "updated_at": "2021-06-17T03:50:04.828+05:30"
+    },
+    {
+      "id": 60,
+      "name": "Sen. Sher Chopra",
+      "email": "sen_chopra_sher@harris-torphy.info",
+      "gender": "Female",
+      "status": "Inactive",
+      "created_at": "2021-06-17T03:50:04.842+05:30",
+      "updated_at": "2021-06-17T03:50:04.842+05:30"
+    },
+    {
+      "id": 61,
+      "name": "Msgr. Jaimini Talwar",
+      "email": "msgr_talwar_jaimini@dickinson.org",
+      "gender": "Female",
+      "status": "Active",
+      "created_at": "2021-06-17T03:50:04.851+05:30",
+      "updated_at": "2021-06-17T03:50:04.851+05:30"
+    },
+    {
+      "id": 62,
+      "name": "Giriraj Prajapat",
+      "email": "prajapat_giriraj@ebert-hamill.com",
+      "gender": "Male",
+      "status": "Active",
+      "created_at": "2021-06-17T03:50:04.859+05:30",
+      "updated_at": "2021-06-17T03:50:04.859+05:30"
+    },
+    {
+      "id": 63,
+      "name": "Brijesh Pilla",
+      "email": "pilla_brijesh@little.com",
+      "gender": "Female",
+      "status": "Inactive",
+      "created_at": "2021-06-17T03:50:04.868+05:30",
+      "updated_at": "2021-06-17T03:50:04.868+05:30"
+    },
+    {
+      "id": 64,
+      "name": "Jaya Sinha",
+      "email": "sinha_jaya@murazik.name",
+      "gender": "Male",
+      "status": "Inactive",
+      "created_at": "2021-06-17T03:50:04.872+05:30",
+      "updated_at": "2021-06-17T03:50:04.872+05:30"
+    }
+  ]
+}

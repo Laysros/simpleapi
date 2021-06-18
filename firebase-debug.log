@@ -1,0 +1,25 @@
+[debug] [2021-06-18T03:41:58.182Z] ----------------------------------------------------------------------
+[debug] [2021-06-18T03:41:58.183Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2021-06-18T03:41:58.184Z] CLI Version:   9.13.1
+[debug] [2021-06-18T03:41:58.184Z] Platform:      linux
+[debug] [2021-06-18T03:41:58.184Z] Node Version:  v12.16.3
+[debug] [2021-06-18T03:41:58.184Z] Time:          Fri Jun 18 2021 10:41:58 GMT+0700 (Indochina Time)
+[debug] [2021-06-18T03:41:58.184Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-06-18T03:41:58.199Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-06-18T03:41:58.200Z] > authorizing via signed-in user (panda220v@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /mnt/c/Users/laysr/Documents/firebase/api
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
