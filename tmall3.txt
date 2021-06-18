@@ -1,0 +1,142 @@
+{
+  "item": {
+    "prop_imgs": {
+      "prop_img": []
+    },
+    "item_imgs": {
+      "item_img": [
+        {
+          "url": "//img.alicdn.com/imgextra/i4/2201494468072/O1CN01dULDZa29V1iYxDrfj_!!0-item_pic.jpg"
+        },
+        {
+          "position": 1,
+          "url": "//img.alicdn.com/imgextra/i2/2201494468072/O1CN01YjpUH429V1iVYYzWz_!!2201494468072.jpg"
+        },
+        {
+          "position": 2,
+          "url": "//img.alicdn.com/imgextra/i4/2201494468072/O1CN01Ky2g3a29V1iXydgwV_!!2201494468072.jpg"
+        },
+        {
+          "position": 3,
+          "url": "//img.alicdn.com/imgextra/i2/2201494468072/O1CN01obk8To29V1iLTXeir_!!2201494468072.jpg"
+        },
+        {
+          "position": 4,
+          "url": "//img.alicdn.com/imgextra/i2/2201494468072/O1CN01ucSVxS29V1ib372x0_!!2201494468072.jpg"
+        }
+      ]
+    },
+    "location": {
+      "city": "深圳",
+      "state": "广东"
+    },
+    "skus": {
+      "sku": [
+        {
+          "price": "1106.82",
+          "properties": "1627207:3232484",
+          "properties_name": "1627207:3232484:颜色分类:Blue",
+          "quantity": 100,
+          "sku_id": 4795219850572
+        },
+        {
+          "price": "1106.82",
+          "properties": "1627207:3232481",
+          "properties_name": "1627207:3232481:颜色分类:Green",
+          "quantity": 100,
+          "sku_id": 4795219850573
+        },
+        {
+          "price": "1106.82",
+          "properties": "1627207:90554",
+          "properties_name": "1627207:90554:颜色分类:Orange",
+          "quantity": 100,
+          "sku_id": 4795219850574
+        },
+        {
+          "price": "1106.82",
+          "properties": "1627207:28332",
+          "properties_name": "1627207:28332:颜色分类:Pink",
+          "quantity": 100,
+          "sku_id": 4795219850575
+        },
+        {
+          "price": "1106.82",
+          "properties": "1627207:3232483",
+          "properties_name": "1627207:3232483:颜色分类:Black",
+          "quantity": 100,
+          "sku_id": 4795219850571
+        },
+        {
+          "price": "1106.82",
+          "properties": "1627207:3232479",
+          "properties_name": "1627207:3232479:颜色分类:Sky Blue",
+          "quantity": 100,
+          "sku_id": 4795219850580
+        },
+        {
+          "price": "1106.82",
+          "properties": "1627207:28340",
+          "properties_name": "1627207:28340:颜色分类:Multicolor",
+          "quantity": 100,
+          "sku_id": 4795219850581
+        },
+        {
+          "price": "1106.82",
+          "properties": "1627207:30156",
+          "properties_name": "1627207:30156:颜色分类:Purple",
+          "quantity": 100,
+          "sku_id": 4795219850576
+        },
+        {
+          "price": "1106.82",
+          "properties": "1627207:60092",
+          "properties_name": "1627207:60092:颜色分类:Red",
+          "quantity": 100,
+          "sku_id": 4795219850577
+        },
+        {
+          "price": "1106.82",
+          "properties": "1627207:3232482",
+          "properties_name": "1627207:3232482:颜色分类:White",
+          "quantity": 100,
+          "sku_id": 4795219850578
+        },
+        {
+          "price": "1106.82",
+          "properties": "1627207:3232478",
+          "properties_name": "1627207:3232478:颜色分类:Yellow",
+          "quantity": 100,
+          "sku_id": 4795219850579
+        }
+      ]
+    },
+    "has_warranty": true,
+    "item_weight": "0",
+    "iid": "642280992919",
+    "modified": "2021-04-20 16:22:54",
+    "title": "Chandelier Nursery Pendant Light Multi-color Cords E27 Wire",
+    "approve_status": "onsale",
+    "cid": 121370028,
+    "created": "2021-04-20 16:22:50",
+    "desc": "var desc='<div style=\"width: 0.0px;height: 0.0px;overflow: hidden;color: #ffffff;\">www.taobao.com</div>';",
+    "props_name": "品牌:夜雪 ;材质:亚克力 ;价格区间:1001-3000元 ;颜色分类:Black Blue Green Orange Pink Purple Red White Yellow Sky Blue Multicolor ;货号:32835465840 ;配件类型:吊饰 ",
+    "is_taobao": true,
+    "nick": "夜雪旗舰店",
+    "num": 1100,
+    "num_iid": 642280992919,
+    "pic_url": "//img.alicdn.com/imgextra/i4/2201494468072/O1CN01dULDZa29V1iYxDrfj_!!0-item_pic.jpg",
+    "freight_payer": "seller",
+    "post_fee": "0",
+    "ems_fee": "0",
+    "express_fee": "4.00",
+    "price": "1106.82",
+    "wap_detail_url": "http://a.m.tmall.com/i642280992919.htm",
+    "wireless_desc": "<wapDesc><img>https://img.alicdn.com/imgextra/i2/2201494468072/O1CN01PchIZo29V1iU7SHaP_!!2201494468072.jpg</img></wapDesc>",
+    "score": "10",
+    "sell_point": "",
+    "shop_type": "B",
+    "stuff_status": "new",
+    "valid_thru": "14"
+  }
+}

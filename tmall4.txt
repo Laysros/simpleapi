@@ -1,0 +1,256 @@
+{
+  "item": {
+    "prop_imgs": {
+      "prop_img": [
+        {
+          "properties": "1627207:2259274579",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01fFQh071D7u0W7CAf4_!!170-0-lubanu.jpg"
+        },
+        {
+          "position": 1,
+          "properties": "1627207:4734244843",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01dJEMgT1C1ezhdjs8D_!!21-0-lubanu.jpg"
+        },
+        {
+          "position": 2,
+          "properties": "1627207:2259274575",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/TB1wOe06UT1gK0jSZFrSuwNCXXa?_!!0-item_pic.jpg"
+        },
+        {
+          "position": 3,
+          "properties": "1627207:2259274588",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/TB1wOe06UT1gK0jSZFrSuwNCXXa?_!!0-item_pic.jpg"
+        },
+        {
+          "position": 4,
+          "properties": "1627207:2259274586",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01smeUnn1ByucNyGrWt_!!15-0-lubanu.jpg"
+        },
+        {
+          "position": 5,
+          "properties": "1627207:2259274572",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01dJEMgT1C1ezhdjs8D_!!21-0-lubanu.jpg"
+        },
+        {
+          "position": 6,
+          "properties": "1627207:2259274584",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01dJEMgT1C1ezhdjs8D_!!21-0-lubanu.jpg"
+        },
+        {
+          "position": 7,
+          "properties": "1627207:2259274580",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01dJEMgT1C1ezhdjs8D_!!21-0-lubanu.jpg"
+        },
+        {
+          "position": 8,
+          "properties": "1627207:2259274592",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01BQOSNv1CwS6fFFtfK_!!145-0-lubanu.jpg"
+        },
+        {
+          "position": 9,
+          "properties": "1627207:2259274585",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01dJEMgT1C1ezhdjs8D_!!21-0-lubanu.jpg"
+        },
+        {
+          "position": 10,
+          "properties": "1627207:2259274583",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN013E6F1M1C9RjEg13BH_!!38-0-lubanu.jpg"
+        },
+        {
+          "position": 11,
+          "properties": "1627207:2259274577",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01dJEMgT1C1ezhdjs8D_!!21-0-lubanu.jpg"
+        },
+        {
+          "position": 12,
+          "properties": "1627207:5016665204",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01dJEMgT1C1ezhdjs8D_!!21-0-lubanu.jpg"
+        },
+        {
+          "position": 13,
+          "properties": "1627207:2259274578",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01mqowkH1Cp7ll5ly08_!!129-0-lubanu.jpg"
+        },
+        {
+          "position": 14,
+          "properties": "1627207:2259274574",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/TB1IN4dlk9l0K4jSZFKq6xFjpXa?_!!0-item_pic.jpg"
+        },
+        {
+          "position": 15,
+          "properties": "1627207:2259274590",
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01dJEMgT1C1ezhdjs8D_!!21-0-lubanu.jpg"
+        }
+      ]
+    },
+    "item_imgs": {
+      "item_img": [
+        {
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01LbZzfd1Xx0Wi4Ml65_!!531372989-0-lubanu.jpg"
+        },
+        {
+          "position": 1,
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01dZIS4h1thMXqSLmug_!!531375933-0-lubanu.jpg"
+        },
+        {
+          "position": 2,
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01lVSJhn1PGr9D6AEyp_!!531401814-0-lubanu.jpg"
+        },
+        {
+          "position": 3,
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN015SBxWX1WC0GNbbiu2_!!531432751-0-lubanu.jpg"
+        },
+        {
+          "position": 4,
+          "url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01yjTOfL20wf5JCPACM_!!532086914-0-lubanu.jpg"
+        }
+      ]
+    },
+    "location": {
+      "city": "金华",
+      "state": "浙江"
+    },
+    "skus": {
+      "sku": [
+        {
+          "price": "167.10",
+          "properties": "1627207:2259274579;122216547:50288",
+          "properties_name": "1627207:2259274579:颜色分类:防水暖白30米300灯-插电款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718814
+        },
+        {
+          "price": "53.90",
+          "properties": "1627207:4734244843;122216547:50288",
+          "properties_name": "1627207:4734244843:颜色分类:USB带遥控+10米暖光+8档闪;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718815
+        },
+        {
+          "price": "44.00",
+          "properties": "1627207:2259274575;122216547:50288",
+          "properties_name": "1627207:2259274575:颜色分类:防水白色10米100灯-电池款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718812
+        },
+        {
+          "price": "29.90",
+          "properties": "1627207:2259274588;122216547:50288",
+          "properties_name": "1627207:2259274588:颜色分类:防水白色5米50灯-电池款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718813
+        },
+        {
+          "price": "75.00",
+          "properties": "1627207:2259274586;122216547:50288",
+          "properties_name": "1627207:2259274586:颜色分类:防水暖白10米100灯-插电款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718810
+        },
+        {
+          "price": "39.10",
+          "properties": "1627207:2259274572;122216547:50288",
+          "properties_name": "1627207:2259274572:颜色分类:防水暖白10米100灯-USB款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718811
+        },
+        {
+          "price": "20.10",
+          "properties": "1627207:2259274584;122216547:50288",
+          "properties_name": "1627207:2259274584:颜色分类:防水暖白2米20灯-USB款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718808
+        },
+        {
+          "price": "43.90",
+          "properties": "1627207:2259274580;122216547:50288",
+          "properties_name": "1627207:2259274580:颜色分类:防水暖白10米100灯-电池款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718809
+        },
+        {
+          "price": "109.50",
+          "properties": "1627207:2259274592;122216547:50288",
+          "properties_name": "1627207:2259274592:颜色分类:防水暖白20米200灯-插电款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718806
+        },
+        {
+          "price": "21.30",
+          "properties": "1627207:2259274585;122216547:50288",
+          "properties_name": "1627207:2259274585:颜色分类:防水暖白2米20灯-纽扣款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718807
+        },
+        {
+          "price": "209.30",
+          "properties": "1627207:2259274583;122216547:50288",
+          "properties_name": "1627207:2259274583:颜色分类:防水暖白50米500灯-插电款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718804
+        },
+        {
+          "price": "24.10",
+          "properties": "1627207:2259274577;122216547:50288",
+          "properties_name": "1627207:2259274577:颜色分类:防水暖白5米50灯-纽扣款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718805
+        },
+        {
+          "price": "86.40",
+          "properties": "1627207:5016665204;122216547:50288",
+          "properties_name": "1627207:5016665204:颜色分类:电池带遥控+10米暖光+8档闪;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718803
+        },
+        {
+          "price": "29.80",
+          "properties": "1627207:2259274578;122216547:50288",
+          "properties_name": "1627207:2259274578:颜色分类:防水蓝色5米50灯-电池款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718818
+        },
+        {
+          "price": "43.50",
+          "properties": "1627207:2259274574;122216547:50288",
+          "properties_name": "1627207:2259274574:颜色分类:防水彩色10米100灯-电池款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718816
+        },
+        {
+          "price": "32.80",
+          "properties": "1627207:2259274590;122216547:50288",
+          "properties_name": "1627207:2259274590:颜色分类:防水暖白5米50灯-USB款;122216547:50288:长度:通用",
+          "quantity": 100,
+          "sku_id": 4840773718817
+        }
+      ]
+    },
+    "has_warranty": true,
+    "item_weight": "0",
+    "iid": "647677738891",
+    "modified": "2021-06-12 21:35:37",
+    "title": "LED copper wire light color light flashing light string fu",
+    "approve_status": "onsale",
+    "cid": 50021420,
+    "created": "2021-06-12 21:48:27",
+    "desc": "var desc='<img align=\"absmiddle\" src=\"https://gd2.alicdn.com/imgextra/O1CN01ppmNQ421EWWtcQLE7_!!532116953-0-lubanu.jpg\" style=\"max-width: none;width: 750.0px;\">';",
+    "props_name": "风格:北欧风格 ;流行元素:小清新 ;颜色分类:电池带遥控+10米暖光+8档闪 防水暖白50米500灯-插电款 防水暖白5米50灯-纽扣款 防水暖白20米200灯-插电款 防水暖白2米20灯-纽扣款 防水暖白2米20灯-USB款 防水暖白10米100灯-电池款 防水暖白10米100灯-插电款 防水暖白10米100灯-USB款 防水白色10米100灯-电池款 防水白色5米50灯-电池款 防水暖白30米300灯-插电款 USB带遥控+10米暖光+8档闪 防水彩色10米100灯-电池款 防水暖白5米50灯-USB款 防水蓝色5米50灯-电池款 ;头数:20头(含)-50头(含) ;长度:通用 ",
+    "is_taobao": true,
+    "nick": "品尼高马的6店",
+    "num": 1600,
+    "num_iid": 647677738891,
+    "pic_url": "//img.alicdn.com/imgextra/i2/2211496348780/O1CN01LbZzfd1Xx0Wi4Ml65_!!531372989-0-lubanu.jpg",
+    "freight_payer": "seller",
+    "post_fee": "0",
+    "ems_fee": "0",
+    "express_fee": "0.00",
+    "price": "20.10",
+    "wap_detail_url": "http://a.m.tmall.com/i647677738891.htm",
+    "wireless_desc": "<wapDesc><img>https://gd2.alicdn.com/imgextra/O1CN01ppmNQ421EWWtcQLE7_!!532116953-0-lubanu.jpg</img></wapDesc>",
+    "score": "1",
+    "shop_type": "C",
+    "stuff_status": "new",
+    "valid_thru": "14"
+  }
+}
