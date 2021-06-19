@@ -58,22 +58,6 @@
         }
       ]
     },
-    "props_imgs": {
-      "prop_img": [
-        {
-          "properties": "1627207:12227458263",
-          "url": "//img.alicdn.com/imgextra/i3/2596264565/TB2.XeblVXXXXXkXpXXXXXXXXXX_!!2596264565.jpg"
-        },
-        {
-          "properties": "1627207:12227458264",
-          "url": "//img.alicdn.com/imgextra/i4/2596264565/TB2dTrjdVXXXXXBXpXXXXXXXXXX_!!2596264565.jpg"
-        },
-        {
-          "properties": "1627207:12227458265",
-          "url": "//img.alicdn.com/imgextra/i2/2596264565/TB2j22kdVXXXXXdXpXXXXXXXXXX_!!2596264565.jpg"
-        }
-      ]
-    },
     "property_alias": "",
     "props": [
       {
